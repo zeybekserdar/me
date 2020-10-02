@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Vue**
 
-- 📝 I regulary write articles on [serdarzeybek.net](serdarzeybek.net)
+- 📝 I regulary write articles on [www.serdarzeybek.net](www.serdarzeybek.net)
 
 - 💬 Ask me about **php,laravel,codeigniter,python**
 
