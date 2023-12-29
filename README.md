@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serdar</h1>
-<h3 align="center">A curious developer from Istanbul</h3>
+<h3 align="center">A curious developer from Izmir</h3>
 
 - 🔭 I'm currently work at **SabancıDx**
 
