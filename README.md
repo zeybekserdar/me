@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Serdar</h1>
 <h3 align="center">A curious developer from Izmir</h3>
 
-- 🔭 I'm currently work at **SabancıDx**
-
-- 🌱 I’m currently learning **Golang & Vue**
+- 🔭 I'm currently work at **Roofstacks**
 
 - 📝 I regularly write articles on [serdarzeybek.medium.com](serdarzeybek.medium.com)
 
 - 💬 Ask me about **vue,.net,javascript**
-
-- 📫 How to reach me **serdarzeybek@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
